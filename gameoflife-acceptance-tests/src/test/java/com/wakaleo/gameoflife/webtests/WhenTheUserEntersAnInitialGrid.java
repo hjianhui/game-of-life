@@ -13,7 +13,7 @@ import net.thucydides.junit.runners.ThucydidesRunner;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
-
+//zhushi
 @RunWith(ThucydidesRunner.class)
 @WithTag("Starting a new simulation")
 public class WhenTheUserEntersAnInitialGrid {
